@@ -1,4 +1,3 @@
-# The-New-Heritage-Doll-Company-Capital-Budgeting-case-study
 # New Heritage Doll Company: Capital Budgeting
 
 The _New Heritage Doll Company: Capital Budgeting_ case study revolves around a decision-making scenario faced by Emily Harris, the vice president of the production division at New Heritage Doll Company. The case takes place in September 2010, and Harris is tasked with choosing between two promising project proposals for the upcoming capital budgeting meetings. The case is structured to help understand financial analysis, capital budgeting, and strategic decision-making in business settings.
